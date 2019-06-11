@@ -1,6 +1,6 @@
 title: DH in the Classroom
 description: 'Testing out static site concepts'
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-slate
 
 defaults:
   # _pages
