@@ -5,7 +5,7 @@ teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_Night
 overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 contributors:
   - name: Megan Grady
-    image: <a data-flickr-embed="true"  href="https://www.flickr.com/photos/dapuglet/30357503094" title="Pug Puppy On Leopard"><img src="https://live.staticflickr.com/5725/30357503094_73e9e587b2_k.jpg" width="2048" height="1462" alt="Pug Puppy On Leopard"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    image: https://vetstreet.brightspotcdn.com/dims4/default/354d0cf/2147483647/thumbnail/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2Fdc%2Fc4%2F8ccd3a28438d81b2f2f5d8031a05%2Fpug-ap-r82p3q-645.jpg
     bio: Born in Indianapolis, Megan is the daughter of Carol (Bowles) and Tom Grady, a paving contractor and current president of Grady Bros. Incorporated. Her mother is from Iowa and her father was born and raised in Indianapolis.
     twitter: mmgrady
 ---
