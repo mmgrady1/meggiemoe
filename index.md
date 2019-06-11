@@ -11,7 +11,7 @@ contributors:
 ---
 
 
-<iframe src="https://uploads.knightlab.com/storymapjs/df7f15ff134a413b9fa6f2f99870fc8a/no-telephone-to-heaven-1/index.html" frameborder="0" width="300%" height="1000"></iframe>
+<iframe src="https://uploads.knightlab.com/storymapjs/df7f15ff134a413b9fa6f2f99870fc8a/no-telephone-to-heaven-1/index.html" frameborder="0" width="200%" height="800"></iframe>
 
 
 ## Introduction
