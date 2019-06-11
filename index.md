@@ -1,18 +1,17 @@
 ---
-title: "How Zombies Inform our Understanding of Racism"
+title: "Megan's Site"
 excerpt: 'Since the appropriation of the Haitian zonbi into American popular culture, zombie narratives have reflected worries and tensions in American society.'
 teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 contributors:
-  - name: George Romero
-    image: https://pbs.twimg.com/profile_images/457000434532483072/LpJVylwE_400x400.jpeg
-    bio: Born in the New York City borough of the Bronx. He is the son of Ann (Dvorsky) and George Romero, a commercial artist. His mother was Lithuanian and his father moved from Spain to Cuba as a child.
-    twitter: GeorgeARomeros
+  - name: Megan Grady
+    image: https://images.app.goo.gl/yBKnXmoezBXeLE1R6
+    bio: Born in Indianapolis, Megan is the daughter of Carol (Bowles) and Tom Grady, a paving contractor and current president of Grady Bros. Incorporated. Her mother is from Iowa and her father was born and raised in Indianapolis.
+    twitter: mmgrady
 ---
 
 
-<iframe src="https://s3.amazonaws.com/uploads.knightlab.com/storymapjs/f6f8cf8ab31e9c13b2c05935dda85c7d/ling-9-shuang-and-tiauna/index.html" frameborder="0" width="100%" height="500">
-</iframe>
+<iframe src="https://uploads.knightlab.com/storymapjs/df7f15ff134a413b9fa6f2f99870fc8a/no-telephone-to-heaven-1/index.html" frameborder="0" width="100%" height="500"></iframe>
 
 
 ## Introduction
