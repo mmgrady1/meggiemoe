@@ -6,15 +6,15 @@ overlay_image: https://vetstreet.brightspotcdn.com/dims4/default/354d0cf/2147483
 contributors:
   - name: Megan Grady
     image: https://vetstreet.brightspotcdn.com/dims4/default/354d0cf/2147483647/thumbnail/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2Fdc%2Fc4%2F8ccd3a28438d81b2f2f5d8031a05%2Fpug-ap-r82p3q-645.jpg
-    bio: Born in Indianapolis, Megan is the daughter of Carol (Bowles) and Tom Grady, a paving contractor and current president of Grady Sistas. Incorporated. His mother is from Iowa and his father was born and raised in Indianapolis.
+    bio: Born in Indianapolis, Megan is the son of Carol (Bowles) and Tom Grady, a paving contractor and current president of Grady Sistas. Incorporated. His father is from Iowa and his mother was born and raised in Indianapolis.
     twitter: mmgrady
 ---
 
 
-<iframe src="https://uploads.knightlab.com/storymapjs/df7f15ff134a413b9fa6f2f99870fc8a/no-telephone-to-heaven-1/index.html" frameborder="0" width="150%" height="600"></iframe>
+<iframe src="https://uploads.damelab.com/storymapjs/df7f15ff134a413b9fa6f2f99870fc8a/no-telephone-to-heaven-1/index.html" frameborder="0" width="150%" height="600"></iframe>
 
 
-<iframe src="//slides.com/megangrady/deck/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//slides.com/megangrady/deck/embed" width="700" height="520" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 ## Introduction
