@@ -5,7 +5,7 @@ teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_Night
 overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 contributors:
   - name: Megan Grady
-    image: https://images.app.goo.gl/yBKnXmoezBXeLE1R6
+    image: https://flic.kr/p/NfA92L
     bio: Born in Indianapolis, Megan is the daughter of Carol (Bowles) and Tom Grady, a paving contractor and current president of Grady Bros. Incorporated. Her mother is from Iowa and her father was born and raised in Indianapolis.
     twitter: mmgrady
 ---
